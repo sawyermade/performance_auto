@@ -18,4 +18,16 @@ dependencies:
   - tzdata=2024a=h0c530f3_0
   - wheel=0.44.0=pyhd8ed1ab_0
   - xz=5.2.6=h57fd34a_0
+  - pip:
+      - blinker==1.8.2
+      - click==8.1.7
+      - flask==3.0.3
+      - flask-sqlalchemy==3.1.1
+      - itsdangerous==2.2.0
+      - jinja2==3.1.4
+      - markupsafe==2.1.5
+      - pytz==2024.1
+      - sqlalchemy==2.0.32
+      - typing-extensions==4.12.2
+      - werkzeug==3.0.4
 prefix: /opt/homebrew/Caskroom/miniforge/base/envs/performance_auto
